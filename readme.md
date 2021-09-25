@@ -15,3 +15,6 @@ My name is Camilo Ferreira, I´m from Uruguay and I´m student at UTEC
 
 ### Contact
 Find all my resume in my [LinkedIn profile](https://www.linkedin.com/in/camiloferreirafosalba/)
+
+### Additional projects
+https://drive.google.com/drive/folders/11jp6x2qPTyX-XZqSE5oHXUraI1vYsujC?usp=sharing
