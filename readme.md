@@ -14,7 +14,7 @@ My name is Camilo Ferreira, I´m from Uruguay and I´m student at UTEC
 * Among others
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/camiloferreirafosalba/)
+[LinkedIn](https://www.linkedin.com/in/camiloferreirafosalba/?locale=en_US)
 <br>[Whatsapp](https://api.whatsapp.com/send?phone=59896249788)
 <br><a href="https://telegram.me/camiloferreira89">Telegram</a>
 
