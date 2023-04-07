@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Oktana as Software Quality Engineer<br>I'm located at Montevideo, Uruguay<br>I'm looking to collaborate on projects in roles related either to data or testing or management<br>I'm studying at Brigham Young University the Bachelor Of Science in Applied Techonology
+I'm currently working at Oktana as Software Quality Engineer<br>I'm located at Montevideo, Uruguay<br>I'm looking to collaborate on projects in roles related either to data or testing or management<br>I'm studying at Brigham Young University the Bachelor of Science in Applied Techonology
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camiloferreirafosalba) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21585287) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ferreira_camilo) [![Telegram](https://img.shields.io/badge/telegram-%230023B5.svg?logo=telegram&logoColor=white)](https://telegram.me/camiloferreira89) [![Whatsapp](https://img.shields.io/badge/whatsapp-Lf579.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=59896249788)
