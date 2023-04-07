@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Oktana as Software Quality Engineer<br>I'm currently located at Montevideo, Uruguay<br>I'm looking to collaborate on projects in roles related either to data or testing<br>I'm currently learning python and javascript
+I'm currently working at Oktana as Software Quality Engineer<br>I'm located at Montevideo, Uruguay<br>I'm looking to collaborate on projects in roles related either to data or testing<br>I'm currently learning python and javascript
 
 
 ## 🌐 Socials:
